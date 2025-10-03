@@ -66,7 +66,7 @@ backend/    # FastAPI backend with LangChain + Gemini AI
 1. Go to the backend folder:  
    ```bash
    cd backend
-````
+```
 
 2. Install dependencies:
 
