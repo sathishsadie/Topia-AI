@@ -56,7 +56,7 @@ try:
     )
 
     vector_store = FAISS.load_local(
-        r"Topia_Vector_DB_cosine\\topia.faiss",
+        r"Topia_Vector_DB\\topia.faiss",
         embeddings,
         allow_dangerous_deserialization=True
     )
