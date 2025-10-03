@@ -37,7 +37,7 @@ It combines **LangChain Agents**, **Gemini LLM**, and **FAISS-based RAG** (Retri
 frontend/   # React + TypeScript + Tailwind frontend
 backend/    # FastAPI backend with LangChain + Gemini AI
 
-````
+```
 
 ---
 
@@ -66,7 +66,7 @@ backend/    # FastAPI backend with LangChain + Gemini AI
 1. Go to the backend folder:  
    ```bash
    cd backend
-```
+   ```
 
 2. Install dependencies:
 
@@ -157,4 +157,3 @@ This system ensures **safe, reliable AI assistance** by using:
 ## 📜 License
 
 This project is licensed under the MIT License.
->>>>>>> a84ef1f (updated backend and readme file has been added)
