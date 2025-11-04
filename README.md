@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Topia-AI
+# Chat-AI
 Chat application .
 =======
 # 🌾 Topia Farm AI  
